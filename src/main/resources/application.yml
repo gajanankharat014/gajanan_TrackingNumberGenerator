@@ -21,5 +21,4 @@ server:
   port: 8182
 
 swagger:
-  server-url: http://localhost:8182
-#  server-url: https://trackingnumbergenerator-zest.onrender.com
+  server-url: https://gajanan-trackingnumbergenerator.onrender.com
